@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+boby{
+	
+	
+	
+	
+	margin:0px;
+	padding:0px;
+	background-color:fff;
+	}
+	
+.dropdown:hover>.dropdown-menu { 
+   display: block;
+}
+
+.dropdown>.dropdown-toggle:active {
+
+    pointer-events: none;
+	
+	
+}
